@@ -1,0 +1,55 @@
+#body{
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    background-color:red
+
+}
+#ana{
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#parent{
+    height: 40vh;
+    width: 50vw;
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-items: center;
+    
+}
+#chield{
+    height: 100px;
+    width: 200px;
+    background-color: darkcyan;
+}
+#chield2{
+    height: 100px;
+    width: 200px;
+    background-color: pink;
+}
+#chield3{
+    height: 100px;
+    width: 200px;
+    background-color: red;
+}
+#chield4{
+    height: 100px;
+    width: 200px;
+    background-color: yellow;
+}
+#chield5{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+}
+#chield6{
+    height: 100px;
+    width: 200px;
+    background-color: black;
+}
