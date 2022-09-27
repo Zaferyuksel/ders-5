@@ -1,0 +1,152 @@
+.body{
+    margin: 0;
+
+}
+#Baş{
+    width: 100%;
+    height: 100px;
+    background: -webkit-linear-gradient(left, rgb(252, 248, 25), rgb(82, 230, 14));
+            background: -o-linear-gradient(right, rgb(252, 248, 25) , rgb(82, 230, 14)); 
+            background: -moz-linear-gradient(right, rgb(252, 248, 25), rgb(82, 230, 14));
+            background: linear-gradient(to right, rgb(252, 248, 25) , rgb(82, 230, 14));    
+    /* display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap; */
+
+}
+#yazı{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 2px;
+    flex-wrap: wrap;
+    color: darkblue;
+}
+#but{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    margin-top: -54px;
+    padding-right: 13px;
+    flex-wrap: wrap;
+}
+#AçıkA{
+    background-color: #108013; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#AçıkA:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#Sat{
+    background-color: #108013; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#Sat:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#kayt{
+    background-color: #108013; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#kayt:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#anagövde{
+    height: 200vh;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#içgövde{
+    height: 1700px;
+    width: 1550px;
+    background-color: red;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    justify-items: flex-start;
+    gap: 5px;
+}
+#ilksatır{
+    height: 600px;
+    width: 1150px;
+
+
+}
+#ikincisatır{
+    height: 600px;
+    width: 1150px;
+
+
+}
+#araba1{
+    height: 560px;
+    width: 550px;
+    background-color: rgb(100, 37, 37);
+
+}
+#araba2{
+    height: 560px;
+    width: 550px;
+    background-color: rgb(133, 28, 28);
+
+}
+#araba3{
+    height: 560px;
+    width: 550px;
+    background-color: rgb(17, 118, 136);
+
+}
+#araba4{
+    height: 560px;
+    width: 550px;
+    background-color: rgb(173, 35, 173);
+
+}
+#araba5{
+    height: 560px;
+    width: 550px;
+    background-color: rgb(7, 167, 55);
+
+}
+#araba6{
+    height: 560px;
+    width: 550px;
+    background-color: rgb(193, 214, 6);
+
+}
+
+
+
+
+
+
+
